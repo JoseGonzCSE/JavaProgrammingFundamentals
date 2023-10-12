@@ -1,0 +1,2 @@
+For My new class I got curious and created an "anti" version of the ConwayCell. This new class essentially
+takes the already written ConwayCell and reverses several of its properties. 
